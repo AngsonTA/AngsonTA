@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angson T A</h1>
 <h3 align="center">"Guarding the Digital Frontier: Ethical Hacker, Cybersecurity Expert & Software Developer"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angsonta&label=Profile%20views&color=0e75b6&style=flat" alt="angsonta" /> </p>
 
 
 - 🔭 I’m currently working on **Bug Bounty**
